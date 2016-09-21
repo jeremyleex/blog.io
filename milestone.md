@@ -2,7 +2,7 @@
 layout: page
 title: "Milestone"
 description: "祝器 "
-header-img: "img/zhihu.jpg"
+header-img: "img/blue.jpg"
 ---
 
 
