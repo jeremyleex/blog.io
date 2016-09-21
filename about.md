@@ -32,11 +32,14 @@ Male, 26, single
 
 ###follow:
 
-- [博客：jeremyli.win](jeremyli.win)
+- [博客:Jeremyli.win](http://jeremyli.win)
 
 - [微博@探偵巧克力酱](http://weibo.com/u/1648361474)
 
 - [知乎@王小明](https://www.zhihu.com/people/li5kyi)
+
+- [Pixiv:巧克力酱](http://www.pixiv.net/member.php?id=8974598)
+
 
 
 
