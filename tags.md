@@ -6,7 +6,7 @@ header-img: "img/semantic.jpg"
 ---
 
 
-##しきがみ
+##式の神
 
 <div id='tag_cloud'>
 {% for tag in site.tags %}
