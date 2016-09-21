@@ -11,16 +11,23 @@ header-img: "img/green.jpg"
 </center>
 
 Jeremy Li
+
 Male, 26, single
+
 @Ericsson
 
 ###fields：
 
 -Coding: Python, VBS/VBA, Shell
+
 -Design: Web, VI...
+
 -Painting: ACG
+
 -Games: Overwatch, DOTA2
+
 -Sports: Yoga, swimming
+
 
 
 ###follow:
