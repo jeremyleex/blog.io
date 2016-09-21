@@ -2,7 +2,7 @@
 layout: page
 title: "About"
 description: "RAmen "
-header-img: "img/green.jpg"
+header-img: "img/black.jpg"
 ---
 
 
