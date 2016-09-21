@@ -1,0 +1,19 @@
+---
+layout: post
+title: 新的结界
+date: 2016-9-20
+categories: blog
+tags: [术]
+description: 
+---
+
+新浪云停用后，把主页从格里达尼亚新街搬了过来，顺便又换了个简(pian)短(yi)的域名。
+源码fork的cnfeat, 自己改了改就照搬过来用了，也许之后会重构一下。
+最近在寻找替代新浪云的虚机挂微信公众号后台，AWS还是阿里云呢...
+
+
+<center>
+    <p><img src="/img/welcome.jpg" align="center"></p>
+</center>
+
+
