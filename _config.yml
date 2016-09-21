@@ -4,12 +4,12 @@ header-img: "img/green.jpg"
 tagline: "cn"  
 description: ""  
 baseurl: ""
-url: "jeremyli"  
+url: "JeremyLi"  
 
 # About/contact
 owner: 
   name: " Jeremy Li"
-  email: jeremyleex@gmail.com
+  email: Jeremyleex@gmail.com
   bio: "RAmen"
 
 # Data
@@ -43,7 +43,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "CnFeat"
+      author: "Jeremy Li"
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
