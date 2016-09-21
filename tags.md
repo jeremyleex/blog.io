@@ -1,12 +1,12 @@
 ---
 layout: page
 title: "Tags"
-description: "式神"  
+description: "名"  
 header-img: "img/semantic.jpg"  
 ---
 
 
-##式の神
+##名
 
 <div id='tag_cloud'>
 {% for tag in site.tags %}
