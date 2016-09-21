@@ -1,19 +1,19 @@
 # Site settings
-title: 读立写生
+title: 苇原中国
 header-img: "img/green.jpg"
 tagline: "cn"  
-description: "陈素封|读而立·写而生"  
+description: ""  
 baseurl: ""
-url: "http://cnfeat"  
+url: "jeremyli"  
 
 # About/contact
 owner: 
-  name: " CnFeat"
-  email: CnFeat@gmail.com
-  bio: "写就是写的报酬"
+  name: " Jeremy Li"
+  email: jeremyleex@gmail.com
+  bio: "RAmen"
 
 # Data
-gavatar: http://dreamofbook.qiniudn.com/Az..png
+gavatar: http://ww1.sinaimg.cn/large/62400002jw8f6m4ylzdakj202s02sdfm.jpg
 favicon: img/favicon.png
 
 douban_username:  
