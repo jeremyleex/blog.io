@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 如何正确地练习写作
-date: 2015-3-02
+title: HELLO
+date: 2016-9-20
 categories: blog
-tags: [总结,知识管理]
+tags: [personal]
 description: 
 ---
 
