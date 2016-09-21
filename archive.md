@@ -2,7 +2,7 @@
 layout: page
 title: "Archive"
 description: "式神"
-header-img: "img/orange.jpg"
+header-img: "img/blue.jpg"
 ---
 
 
