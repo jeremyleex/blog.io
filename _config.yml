@@ -17,11 +17,11 @@ gavatar: http://ww1.sinaimg.cn/large/62400002jw8f6m4ylzdakj202s02sdfm.jpg
 favicon: img/favicon.png
 
 douban_username:  
-twitter_username: 
-github_username: 
+twitter_username: jeremyleex
+github_username: jeremyleex
 facebook_username: 
-weibo_username: 
-zhihu_username: 
+weibo_username: jeremyleex
+zhihu_username: li5kyi
 
 # Build settings  
 # use Github Flavored Markdown !important  
@@ -55,7 +55,7 @@ comments :
       short_name : 
 
 # Analytics and webmaster tools stuff goes here
-google_analytics: 
+google_analytics: UA-84843901-1
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
