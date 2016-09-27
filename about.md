@@ -16,7 +16,7 @@ Male, 26, single
 
 @Ericsson
 
-<h4>fields：</h4>
+<h4/>
 
 -Coding: Python, VBS/VBA, Shell
 
@@ -24,20 +24,10 @@ Male, 26, single
 
 -Painting: ACG
 
--Games: Overwatch, DOTA2
+-Games: Overwatch, DOTA2, 陰陽師
 
 -Sports: Yoga, swimming
 
-
-<h1>follow:<h1/>
-
-- [博客:Jeremyli.win](http://jeremyli.win)
-
-- [微博@探偵巧克力酱](http://weibo.com/u/1648361474)
-
-- [知乎@王小明](https://www.zhihu.com/people/li5kyi)
-
-- [Pixiv:巧克力酱](http://www.pixiv.net/member.php?id=8974598)
 
 
 
