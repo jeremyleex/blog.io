@@ -1,4 +1,3 @@
-@@ -0,0 +1,26 @@
 ---
 layout: post
 title: Cosplay Division
@@ -13,3 +12,14 @@ Cosplay-- Division Agent
 <center>
     <p><img src="/img/division.jpg" align="center"></p>
 </center>
+
+
+
+
+
+
+
+
+
+
+
