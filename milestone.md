@@ -14,7 +14,8 @@ header-img: "img/orange.jpg"
 ###祝器：
 
 
-- [《你送过或收到过什么特别的礼物？》](https://www.zhihu.com/question/20636030/answer/16447333?group_id=761002660039004160)
+- [《你送过或收到过什么特别的礼物？》](https://www.zhihu.com/question/20636030/answer/16447333)
+- [《COSPLAY一个知名度低的角色是一种什么样的体验？》](https://www.zhihu.com/question/54347626/answer/139280304)
 
 
 
