@@ -7,7 +7,7 @@ header-img: "img/black.jpg"
 
 
 <center>
-    <p><img src="http://ww1.sinaimg.cn/large/62400002jw8f6m4ylzdakj202s02sdfm.jpg" align="center"></p>
+    <p><img src="http://wx1.sinaimg.cn/thumb150/62400002ly8fh0kzcwxzgj20ij0ijjsn.jpg" align="center"></p>
 </center>
 
 Jeremy Li
