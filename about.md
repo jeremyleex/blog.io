@@ -12,7 +12,7 @@ header-img: "img/black.jpg"
 
 Jeremy Li
 
-Male, 26, single
+Male, 27, single
 
 @Ericsson
 
@@ -24,9 +24,11 @@ Male, 26, single
 
 -Painting: ACG
 
--Games: Overwatch, DOTA2, 陰陽師
+-Games: Overwatch, DOTA2
 
--Sports: Yoga, swimming
+-Sports: Yoga, swimming,jogging
+
+-Pets: Cat
 
 
 
